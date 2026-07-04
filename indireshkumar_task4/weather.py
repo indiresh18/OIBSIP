@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "261808b9d1d9e1a9e998dbb5f1f82344"  
+API_KEY = ""#I ERASED MY API KEY FOR PRIVACY -- GOT A MAIL FROM GITGUARDIAN  
 
 
 def get_weather(city):
